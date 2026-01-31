@@ -86,8 +86,8 @@ export const Projects = () => {
         {
             name: "64 Daireli Konut Projesi",
             year: "2024",
-            status: "Tamamlandı",
-            description: "64 daireli bu büyük ölçekli konut projemiz, planlı yürütülen inşaat süreçleri, yüksek yapısal kalite ve modern yaşam standartlarına uygun tasarım anlayışıyla başarıyla tamamlanmıştır. Güçlü mühendislik altyapısı ve kaliteli malzeme kullanımıyla uzun ömürlü, güvenli ve konforlu yaşam alanları sunmaktadır.",
+            status: "Devam Ediyor",
+            description: "64 daireli bu büyük ölçekli konut projemizin inşaatı şu anda devam etmektedir. Planlı yürütülen yapım süreçleri, yüksek yapısal kalite standartları ve modern yaşam beklentilerine uygun tasarım anlayışıyla çalışmalarımız titizlikle sürdürülmektedir. Güçlü mühendislik altyapısı ve kaliteli malzeme kullanımıyla güvenli ve konforlu yaşam alanları sunmayı hedefliyoruz.",
             image: "/images/projects/project3.jpg",
             scope: [
                 "Betonarme Karkas Sistem",
