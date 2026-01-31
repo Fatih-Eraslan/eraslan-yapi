@@ -57,7 +57,7 @@ export const Projects = () => {
     const projects = [
         {
             name: "30+ Daireli Konut Projesi",
-            year: "2024",
+            year: "2023",
             status: "Tamamlandı",
             description: "30'dan fazla daireden oluşan bu konut projemiz, kaliteli inşaat standartları, verimli alan planlaması ve güvenilir teslimat anlayışıyla başarıyla tamamlanmıştır. Sağlam yapısal çözümler ve titiz işçilikle modern yaşam beklentilerini karşılayan bu projemiz, aileler için konforlu ve güvenli yaşam alanları sunmaktadır.",
             image: "/images/projects/project1.jpg",
@@ -71,7 +71,7 @@ export const Projects = () => {
         },
         {
             name: "12 Daireli Konut Projesi",
-            year: "2023",
+            year: "2024",
             status: "Tamamlandı",
             description: "12 daireden oluşan bu konut yapımız, nitelikli işçilik, fonksiyonel mekan düzeni ve yaşam konforu ön planda tutularak hayata geçirilmiştir. Her detayda kaliteyi yansıtan bu projemiz, sakinlerine modern ve huzurlu bir yaşam ortamı sağlamaktadır.",
             image: "/images/projects/project2.jpg",
@@ -85,7 +85,7 @@ export const Projects = () => {
         },
         {
             name: "64 Daireli Konut Projesi",
-            year: "2024",
+            year: "2025",
             status: "Devam Ediyor",
             description: "64 daireli bu büyük ölçekli konut projemizin inşaatı şu anda devam etmektedir. Planlı yürütülen yapım süreçleri, yüksek yapısal kalite standartları ve modern yaşam beklentilerine uygun tasarım anlayışıyla çalışmalarımız titizlikle sürdürülmektedir. Güçlü mühendislik altyapısı ve kaliteli malzeme kullanımıyla güvenli ve konforlu yaşam alanları sunmayı hedefliyoruz.",
             image: "/images/projects/project3.jpg",
