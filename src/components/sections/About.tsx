@@ -51,12 +51,12 @@ export const About = () => {
                         whileInView={{ opacity: 1, scale: 1 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.8 }}
-                        className="md:w-1/2 h-[400px] bg-surface relative overflow-hidden"
+                        className="md:w-1/2 h-auto md:h-[400px] bg-surface relative overflow-hidden flex flex-col justify-end"
                     >
                         {/* Abstract decorative element representing a blueprint or structure */}
                         <div className="absolute inset-0 bg-gradient-to-br from-gray-800 to-black opacity-50"></div>
                         <div className="absolute inset-0 border border-white/5 m-4"></div>
-                        <div className="absolute bottom-0 right-0 p-8">
+                        <div className="relative z-10 p-8 w-full text-right">
                             <div className="text-6xl font-serif text-white/10 font-bold">5+</div>
                             <div className="text-accent uppercase tracking-widest text-sm">Yıllık Tecrübe</div>
                         </div>
